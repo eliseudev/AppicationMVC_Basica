@@ -20,13 +20,13 @@ namespace AppMvcBasica.Controllers
         {
             _context = context;
         }
-        [AllowAnonymous]
+        //[AllowAnonymous]
         // GET: Fornecedores
         public async Task<IActionResult> Index()
         {
             return View(await _context.Fornecedores.ToListAsync());
         }
-        [AllowAnonymous]
+        //[AllowAnonymous]
         // GET: Fornecedores/Details/5
         public async Task<IActionResult> Details(Guid? id)
         {

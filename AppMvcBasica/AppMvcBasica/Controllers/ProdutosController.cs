@@ -21,14 +21,14 @@ namespace AppMvcBasica.Controllers
         {
             _context = context;
         }
-        [AllowAnonymous]
+        //[AllowAnonymous]
         // GET: Produtos
         public async Task<IActionResult> Index()
         {
             var applicationDbContext = _context.Produtos.Include(p => p.Fornecedor);
             return View(await applicationDbContext.ToListAsync());
         }
-        [AllowAnonymous]
+        //[AllowAnonymous]
         // GET: Produtos/Details/5
         public async Task<IActionResult> Details(Guid? id)
         {
