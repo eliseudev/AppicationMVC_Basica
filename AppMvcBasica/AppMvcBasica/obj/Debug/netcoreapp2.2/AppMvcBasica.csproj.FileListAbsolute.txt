@@ -33,3 +33,9 @@ W:\BACKUP\Documents\GitHub\AppicationMVC_Basica\AppMvcBasica\AppMvcBasica\obj\De
 W:\BACKUP\Documents\GitHub\AppicationMVC_Basica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.pdb
 W:\BACKUP\Documents\GitHub\AppicationMVC_Basica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.genruntimeconfig.cache
 W:\BACKUP\Documents\GitHub\AppicationMVC_Basica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\AppMvcBasica.csproj.CopyComplete
+W:\BACKUP\Documents\GitHub\AppicationMVC_Basica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Create.cshtml.g.cs
+W:\BACKUP\Documents\GitHub\AppicationMVC_Basica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Delete.cshtml.g.cs
+W:\BACKUP\Documents\GitHub\AppicationMVC_Basica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Details.cshtml.g.cs
+W:\BACKUP\Documents\GitHub\AppicationMVC_Basica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Edit.cshtml.g.cs
+W:\BACKUP\Documents\GitHub\AppicationMVC_Basica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\Index.cshtml.g.cs
+W:\BACKUP\Documents\GitHub\AppicationMVC_Basica\AppMvcBasica\AppMvcBasica\obj\Debug\netcoreapp2.2\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
